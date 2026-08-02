@@ -87,7 +87,7 @@ Compare the number of comparisons performed by normal Bubble Sort and optimized 
 - **O(1)**
 ## Performance Analysis
 
-![Bubble Sort Comparison Graph](images/bubble.png)
+![Bubble Sort Comparison Graph](images/bubble.jpeg)
 ---
 
 # Program 4: Tower of Hanoi
@@ -123,7 +123,7 @@ T(n) = 2^n - 1
   
 ## Tower of Hanoi Graph
 
-![Tower of Hanoi Graph](images/Tohanoi(2).png)
+![Tower of Hanoi Graph](images/hanoi.png)
 ---
 
 # Program 5: Find Partition Point in a Binary Array
